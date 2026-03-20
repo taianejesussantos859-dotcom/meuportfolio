@@ -1,1 +1,27 @@
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
 
+
+h1 {
+  color: blue;
+}
+
+
+p {
+  color: #333;
+  font-size: 18px;
+}
+
+
+ul {
+  list-Style: none;
+  padding: 0;
+}
+
+li {
+  background-color: white;
+  
+  
